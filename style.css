@@ -1,0 +1,45 @@
+iframe {
+max-width: 100%;
+height: auto;
+border: 0;
+}
+header, footer {
+               text-align: center;
+               }
+h1{
+    font-size:85px;
+    color:black; 
+	font-family: 'Bebas Neue', cursive;
+	padding-bottom:0px; 
+}
+a{
+    font-size: 35px;
+	color:black;
+}
+.item {
+       background-color: rgba(255,127,80,0.55);
+       padding:1%;
+       margin:1%; 
+       margin-bottom: 20px; 
+       margin-top: 20px; 
+       border-radius:10px;
+}
+nav{
+text-align: center;
+}
+nav li {
+display: inline-block;
+}
+nav a {
+background:rgba(255,127,80,0.00); 
+color: black;
+padding: 15px; 
+text-decoration: none; 
+border-radius: 5px;
+font-family: 'Bebas Neue', cursive;
+}
+nav a:hover{background:rgba(255,127,80,0.75);}
+
+html{
+	background: url(cinema2.jpg)
+}
